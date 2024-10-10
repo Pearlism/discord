@@ -16,25 +16,5 @@
 @import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/ServerRings.css');
 @import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/RadialStatus.css');
 
-:root {
-  --undefined: 0;
-  --color1: 30, 40, 50;
-  --color2: 0,0,0;
-  --color3: 115,0,255;
-  --undefined: 0;
-  --ColorOpacity: 1;
-  --DisableOpacity: 0;
-  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
-  --font: Comfortaa;
-  --homeicon: url('https://i.pinimg.com/736x/37/1d/37/371d37907e1402de742d263e7a928f27.jpg');
-  --undefined: 0;
-  --FVUI: "landen419";
-  --customdesc: Dark Purple By Landen419;
-  --image: transparent;
-  --OpacityBG: 100%;
-  --BlurBG: 0px;
-}
-
-/* Any custom CSS below here */
 
 
